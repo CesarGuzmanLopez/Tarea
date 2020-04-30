@@ -24,7 +24,7 @@
         "bootstrap": "^4.4.1",
         "bootstrap-sass": "^3.4.1",
         "bootstrap-vue": "^2.1.0",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "jquery-ui": "^1.12.1",
         "unpkg": "^0.2.0",
         "vue": "^2.6.10"
